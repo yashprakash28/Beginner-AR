@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="uv" size="10.000000 3.601744" />
+    <ImageTarget name="pcb" size="10.000000 7.702098" />
+    <ImageTarget name="Ingot" size="10.000000 3.281408" />
+    <ImageTarget name="film" size="10.000000 3.952407" />
+  </Tracking>
+</QCARConfig>
